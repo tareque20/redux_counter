@@ -1,8 +1,13 @@
 # Redux Course Note Example
 Simple Redux Example
 
-# Run Project:
+# Setup:
 ```sh
 $ npm init
 $ npm install
+```
+
+# Run Project:
+```sh
+$ npm start
 ```
