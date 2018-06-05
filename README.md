@@ -1,8 +1,8 @@
-# redux_course_notes
+# Redux Course Note Example
 Simple Reux Example
 
 # Run Project:
-```
-sh$ npm init
+```sh
+$ npm init
 $ npm install
 ```
