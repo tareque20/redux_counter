@@ -1,5 +1,5 @@
 # Redux Course Note Example
-Simple Reux Example
+Simple Redux Example
 
 # Run Project:
 ```sh
