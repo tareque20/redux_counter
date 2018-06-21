@@ -1,5 +1,5 @@
 var config = {
-    entry: __dirname + '/app/main.js',
+    entry: __dirname + '/counter_example/index.js',
 
     output: {
         path: __dirname + '/build',
