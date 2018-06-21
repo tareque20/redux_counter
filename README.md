@@ -1,5 +1,5 @@
-# Redux Course Note Example
-Simple Redux Example
+# Redux Counter App
+Simple Redux Counter Example
 
 # Setup:
 ```sh
